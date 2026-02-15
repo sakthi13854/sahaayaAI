@@ -161,7 +161,7 @@ SahaayaAI is built with the goal of making public services accessible to everyon
 
 ## 📞 Contact
 
-For questions or support, please open an issue on GitHub or contact [your-email@example.com]
+For questions or support, please open an issue on GitHub or contact [sakthi138540@gmail.com]
 
 ---
 
